@@ -9,5 +9,5 @@ echo It\'s nice to meet you $varname
 git add .
 git commit -m "$varname"
 git push
-
+gnome-terminal
 git status
