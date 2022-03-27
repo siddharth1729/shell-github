@@ -3,7 +3,6 @@
     # Ask the user for their name
 echo Hello, Pleas enter your commit
 read varname
-echo It\'s nice to meet you $varname
 
 echo "\n____________________________________________________\n"
 echo "_________________ADDING AND PUSHING FILES____________\n"
