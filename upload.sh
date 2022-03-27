@@ -5,9 +5,11 @@ echo Hello, Pleas enter your commit
 read varname
 echo It\'s nice to meet you $varname
 
+echo \n\n____________________________________________________\n\n
 
 git add .
 git commit -m "$varname"
 git push
-gnome-terminal
+
+echo \n\n____________________________________________________\n\n
 git status
