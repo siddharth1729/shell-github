@@ -1,7 +1,7 @@
 
     #!/bin/bash
     # Ask the user for their name
-echo Hello, Pleas enter your commit
+echo Pleas enter your commit
 read varname
 
 echo "\n____________________________________________________\n"
